@@ -1,2 +1,6 @@
 .vscode/tasks.json
 task1
+client_task1
+client_task2
+server_task1
+server_task2
